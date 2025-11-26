@@ -14,26 +14,26 @@ Este proyecto implementa un sistema de registro e inicio de sesión de usuarios 
 
 Estructura del proyecto
 CONTRASEÑA/
-│
-├── core/ 
-│   ├── __init__.py                
-│   ├── base_usu.py        
-│   └── Usuario.py         
-│
-├── data/                  
-│   └── Usuarios.db        
-│
-├── Funciones/             
-│   ├── __init__.py
-│   └── login.py           
-│
-├── Interfaz/              
-│   ├── __init__.py
-│   ├── inter_consola.py   
-│   └── interfaz_Gui.py    
-│
-├── README.md              
-└── requirements.txt       
+
+core/ 
+   - __init__.py                
+   - base_usu.py        
+   - Usuario.py         
+
+data/                  
+   - Usuarios.db        
+
+Funciones/             
+   - __init__.py
+   - login.py           
+
+Interfaz/              
+    - __init__.py
+    -  inter_consola.py   
+    -  interfaz_Gui.py    
+
+README.md              
+requirements.txt       
 
 
 
@@ -50,11 +50,9 @@ pip install -r requirements.txt
 - Ejecutar desde el archico (main.py)
 Este archivo permite elegir entre la interfaz por consola o la interfaz gráfica, puede modificar según su elección. Ingrese este codigo en su terminal, para ejecutar el programa:  python main.py
 
-- Ejecutar directamente por consola
-python -m Interfaz.inter_consola
+- Ejecutar directamente por consola:  python -m Interfaz.inter_consola
 
-- Ejecutar directamente por intefaz
-python -m Interfaz.interfaz_gui
+- Ejecutar directamente por intefaz:  python -m Interfaz.interfaz_gui
 
 
 
