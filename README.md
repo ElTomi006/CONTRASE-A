@@ -16,8 +16,10 @@ Estructura del proyecto
 CONTRASEÑA/
 
 core/ 
-    - __init__.py                
-    - base_usu.py        
+    - __init__.py
+
+    - base_usu.py
+            
     - Usuario.py         
 
 data/                  
@@ -25,15 +27,18 @@ data/
 
 Funciones/             
     - __init__.py
+
     - login.py           
 
 Interfaz/              
     - __init__.py
-    -  inter_consola.py   
+
+    -  inter_consola.py
+
     -  interfaz_Gui.py    
 
-README.md              
-requirements.txt       
+ README.md              
+ requirements.txt       
 
 
 
