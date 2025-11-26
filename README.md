@@ -66,12 +66,23 @@ Este archivo permite elegir entre la interfaz por consola o la interfaz gráfica
 ##  Capturas de pantalla
 
 - Interfaz principal
+
+
+
+
 ![Principal](screenshots/Gui_Principal.png)
 
 - Inicio de sesión
+
+
+
 ![Login](screenshots/Iniciar_sesion.png)
 
 - Crear cuenta
+
+
+
+
 ![Crear cuenta](screenshots/Crear_cuenta.png)
 
 
