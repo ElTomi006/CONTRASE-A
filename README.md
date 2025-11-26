@@ -16,16 +16,16 @@ Estructura del proyecto
 CONTRASEÑA/
 
 core/ 
-   - __init__.py                
-   - base_usu.py        
-   - Usuario.py         
+    - __init__.py                
+    - base_usu.py        
+    - Usuario.py         
 
 data/                  
-   - Usuarios.db        
+    - Usuarios.db        
 
 Funciones/             
-   - __init__.py
-   - login.py           
+    - __init__.py
+    - login.py           
 
 Interfaz/              
     - __init__.py
